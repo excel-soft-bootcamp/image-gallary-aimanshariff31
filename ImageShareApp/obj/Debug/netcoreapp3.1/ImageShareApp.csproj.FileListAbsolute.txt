@@ -1,0 +1,12 @@
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\bin\Debug\netcoreapp3.1\ImageShareApp.exe
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\bin\Debug\netcoreapp3.1\ImageShareApp.deps.json
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\bin\Debug\netcoreapp3.1\ImageShareApp.runtimeconfig.json
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\bin\Debug\netcoreapp3.1\ImageShareApp.runtimeconfig.dev.json
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\bin\Debug\netcoreapp3.1\ImageShareApp.dll
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\bin\Debug\netcoreapp3.1\ImageShareApp.pdb
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\obj\Debug\netcoreapp3.1\ImageShareApp.AssemblyInfoInputs.cache
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\obj\Debug\netcoreapp3.1\ImageShareApp.AssemblyInfo.cs
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\obj\Debug\netcoreapp3.1\ImageShareApp.csproj.CoreCompileInputs.cache
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\obj\Debug\netcoreapp3.1\ImageShareApp.dll
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\obj\Debug\netcoreapp3.1\ImageShareApp.pdb
+C:\Users\aiman.shariff\source\repos\ImageShareApp\ImageShareApp\obj\Debug\netcoreapp3.1\ImageShareApp.genruntimeconfig.cache
